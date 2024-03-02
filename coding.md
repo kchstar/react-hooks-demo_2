@@ -30,7 +30,8 @@ $nvm list availbale
         ex) main
         ex) origin 
     git remote add origin https://github.com/kchstar/react-hooks-demo_2.git
-    git push -u origin main 
+    git push -u origin main (x)
+    git push --set-upstream main main
 
 # (use "git add <file>..." to include in what will be committed)
     ex) git add * (all)
