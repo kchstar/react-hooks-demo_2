@@ -23,4 +23,15 @@ $nvm list availbale
     git init
     git config --global user.name "kchstar_outlook_com"
     git config --global user.email "kchstar@outlook.com"
-    git add * "initial commit"
+    git add * 
+    git commit -m "first commit"[Git] 로컬 저장소에 Commit하기
+    [Git] 로컬 저장소에 Commit하기
+    git branch 
+        ex) main
+        ex) origin 
+    git remote add origin https://github.com/kchstar/react-hooks-demo_2.git
+    git push -u origin main 
+
+# (use "git add <file>..." to include in what will be committed)
+    ex) git add * (all)
+    ex) git add README.md
